@@ -398,4 +398,3 @@ Nyttig informasjon;
 - https://spring.io/guides/tutorials/metrics-and-tracing/
 - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready-metrics
 
-At the end
